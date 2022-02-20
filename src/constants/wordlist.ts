@@ -71,5 +71,6 @@ export const WORDS = [
   'aunty',
   'uncle',
   'tanty',
-  'cutie'
+  'cutie',
+  'laugh'
 ]

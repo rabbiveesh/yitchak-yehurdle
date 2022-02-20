@@ -2367,7 +2367,6 @@ export const VALID_GUESSES = [
   'crame',
   'cramp',
   'crams',
-  'crane',
   'crank',
   'crans',
   'crape',
